@@ -1,5 +1,10 @@
 package example.strategy;
 
+import example.strategy.CreditCardPayment;
+import example.strategy.Item;
+import example.strategy.PaypalPayment;
+import example.strategy.ShoppingCart;
+
 public class Main {
 
     public static void main(String[] args){
