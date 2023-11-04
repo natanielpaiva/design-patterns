@@ -1,5 +1,9 @@
 package example.strategy;
-
+/**
+ * Instagram: @natanieltech
+ * LinkedIn: https://www.linkedin.com/in/natanielpaiva/
+ * YouTube: https://www.youtube.com/@NatanielTech
+ */
 public class CreditCardPayment implements PaymentStrategy{
     private String name;
     private String cardNumber;

@@ -3,6 +3,11 @@ package example.strategy;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Instagram: @natanieltech
+ * LinkedIn: https://www.linkedin.com/in/natanielpaiva/
+ * YouTube: https://www.youtube.com/@NatanielTech
+ */
 public class ShoppingCart {
     List<Item> items;
     private PaymentStrategy paymentStrategy;

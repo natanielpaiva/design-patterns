@@ -1,10 +1,10 @@
 package example.strategy;
 
-import example.strategy.CreditCardPayment;
-import example.strategy.Item;
-import example.strategy.PaypalPayment;
-import example.strategy.ShoppingCart;
-
+/**
+ * Instagram: @natanieltech
+ * LinkedIn: https://www.linkedin.com/in/natanielpaiva/
+ * YouTube: https://www.youtube.com/@NatanielTech
+ */
 public class Main {
 
     public static void main(String[] args){
