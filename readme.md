@@ -38,7 +38,7 @@ Os padrões de design são soluções típicas para problemas comuns em design d
 - [Memento](/Behavioral/Memento) (a fazer)
 - [Interpreter](/Behavioral/Interpreter) (a fazer)
 - [Chain of Responsibility](/Behavioral/ChainOfResponsibility) (a fazer)
-- [Strategy Pattern](./Behavioral/Strategy/README.md)
+- [Strategy Pattern](./Behavioral/Strategy/readme.md)
 
 
 
