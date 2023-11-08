@@ -5,6 +5,5 @@ package example.strategy;
  * YouTube: https://www.youtube.com/@NatanielTech
  */
 public interface PaymentStrategy {
-
     void pay(int amount);
 }
