@@ -1,14 +1,33 @@
 package example.creational.singleton;
 
 
+import java.util.concurrent.CountDownLatch;
+
 public class Main {
+    public static void main(String[] args) throws InterruptedException {
+        int numberOfThreads = 10;
+        CountDownLatch readyLatch = new CountDownLatch(numberOfThreads);
+        CountDownLatch startLatch = new CountDownLatch(1);
 
-    public static void main(String[] args){
-        DatabaseConnection databaseConnection = DatabaseConnection.getInstance();
-        DatabaseConnection databaseConnection2= DatabaseConnection.getInstance();
+        for (int i = 0; i < numberOfThreads; i++) {
+            new Thread(new Runnable() {
+                @Override
+                public void run() {
+                    readyLatch.countDown(); // Indica que a thread está pronta
+                    try {
+                        startLatch.await(); // Espera o sinal para iniciar
+                        DatabaseConnection instance = DatabaseConnection.getInstance();
+                        System.out.println("Instance: " + instance.hashCode());
+                    } catch (InterruptedException e) {
+                        Thread.currentThread().interrupt();
+                    }
+                }
+            }).start();
+        }
 
-        Connection connection = databaseConnection.getConnection();
-        Connection connection2 = databaseConnection2.getConnection();
+        readyLatch.await(); // Espera todas as threads ficarem prontas
+        startLatch.countDown(); // Inicia todas as threads simultaneamente
     }
-
 }
+
+

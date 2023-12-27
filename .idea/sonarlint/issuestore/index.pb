@@ -38,3 +38,9 @@ W
 'src/example/nostrategy2/Inspection.java,7/7/773cad7543d7316f75337680b78a43c2846dc115
 Q
 !src/example/nostrategy2/Main.java,1/1/11099da5e3ebb0d6ab704a54c6a88a76c3ba49c1
+`
+0src/example/creational/singleton/Connection.java,a/a/aabb3fefca5db8337e7969d9c8db3aee655ba9fc
+Z
+*src/example/creational/singleton/Main.java,e/c/ec30954ce6257b3fd440a8d70626ca616ecdecff
+h
+8src/example/creational/singleton/DatabaseConnection.java,b/0/b003af08c533311bc2228995faad65fdeab413ac

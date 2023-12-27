@@ -8,9 +8,13 @@ public class DatabaseConnection {
         // Código para estabelecer a conexão com o banco de dados
     }
 
-    public static synchronized DatabaseConnection getInstance() {
+    public static DatabaseConnection getInstance() {
         if (instance == null) {
-            instance = new DatabaseConnection();
+            synchronized (DatabaseConnection.class){
+                if(instance == null){
+                    instance = new DatabaseConnection();
+                }
+            }
         }
         return instance;
     }
