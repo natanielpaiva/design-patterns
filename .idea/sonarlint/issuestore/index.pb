@@ -44,3 +44,17 @@ Z
 *src/example/creational/singleton/Main.java,e/c/ec30954ce6257b3fd440a8d70626ca616ecdecff
 h
 8src/example/creational/singleton/DatabaseConnection.java,b/0/b003af08c533311bc2228995faad65fdeab413ac
+d
+4src/example/creational/factory/SQLiteConnection.java,e/b/eb73fecec22223c372f133c7c1671afe6d98dde4
+c
+3src/example/creational/factory/MySQLConnection.java,6/a/6a9502f5e67397ff8656b10fb9fb6de80a0c95ee
+a
+1src/example/creational/factory/SQLiteFactory.java,e/4/e4055ee304b783e36ab64a9b460598552476b650
+^
+.src/example/creational/factory/Connection.java,4/a/4a917971129b05be82c6e72911378cef8515b5a4
+e
+5src/example/creational/factory/ConnectionFactory.java,4/8/48d70017dfd00f5015a5e44efdb7bdc2dc600381
+`
+0src/example/creational/factory/MySQLFactory.java,3/6/365c9b7aa1ad59b97173fdb171d7637f21611468
+X
+(src/example/creational/factory/Main.java,d/5/d5cef14312cb04d1b631540676bd307b0528d857
