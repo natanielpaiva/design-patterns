@@ -10,9 +10,15 @@ public class Main {
         GameSettings playerSettings = prototypeSettings.clone();
         System.out.println(playerSettings.hashCode());
         playerSettings.setDifficulty("Hard");
+        playerSettings.setBrightness(2);
 
         System.out.println("Player Settings: Difficulty is " + playerSettings.getDifficulty());
         System.out.println("Player Settings: Volume is " + playerSettings.getVolume());
+        System.out.println("Player Settings: brightness is " + playerSettings.getBrightness());
+        System.out.println("Prototype Settings: brightness is " + prototypeSettings.getBrightness());
+
+
+
     }
 }
 
