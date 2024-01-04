@@ -80,3 +80,7 @@ W
 'src/example/creational/buider/Main.java,2/d/2d97fbd98b5e7f527a00708c27c193803e43946a
 Z
 *src/example/creational/buider/Produto.java,7/b/7bee852129e29fa6675c63d515bf0553c0d0b904
+Z
+*src/example/creational/prototype/Main.java,c/0/c0c6faaadf97c98bb14c27e1d7ca018593538ad9
+b
+2src/example/creational/prototype/GameSettings.java,7/2/724717949cacf7d2c0f5570d9a56756a6f48a6ff
