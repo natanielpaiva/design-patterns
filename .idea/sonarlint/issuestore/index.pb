@@ -104,3 +104,11 @@ Z
 -src/example/structural/composite/Arquivo.java,6/f/6f66cdb8fffc622fdb5c83763197031e57135584
 d
 4src/example/structural/composite/ArquivoSimples.java,1/0/106b55ec83ed909b23aa97beb02c7d85977d06a9
+]
+-src/example/structural/proxy/ProxyImagem.java,e/4/e421577160279a5a16f1883c50a486e2d1ecf811
+^
+.src/example/structural/proxy/ImagemPesada.java,6/9/6969122da7e80d9f409fca70b203e7e1dbc98f95
+X
+(src/example/structural/proxy/Imagem.java,c/c/cc49f18e02ecb5c10220ba44a6a66cfb6004c1d9
+Y
+)src/example/structural/proxy/Cliente.java,a/9/a974a4e135053e490d7b6a1117f4d2740bf6cbeb

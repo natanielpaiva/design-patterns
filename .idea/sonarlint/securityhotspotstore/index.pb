@@ -104,3 +104,11 @@ d
 +src/example/structural/composite/Pasta.java,0/1/01c05d2f920cd7d8138e8033053b87c8a6ac47fe
 Z
 *src/example/structural/composite/Main.java,a/c/ac2d0d6cd4f99805ad069db71ad1ad836872a620
+X
+(src/example/structural/proxy/Imagem.java,c/c/cc49f18e02ecb5c10220ba44a6a66cfb6004c1d9
+^
+.src/example/structural/proxy/ImagemPesada.java,6/9/6969122da7e80d9f409fca70b203e7e1dbc98f95
+]
+-src/example/structural/proxy/ProxyImagem.java,e/4/e421577160279a5a16f1883c50a486e2d1ecf811
+Y
+)src/example/structural/proxy/Cliente.java,a/9/a974a4e135053e490d7b6a1117f4d2740bf6cbeb
