@@ -112,3 +112,9 @@ X
 (src/example/structural/proxy/Imagem.java,c/c/cc49f18e02ecb5c10220ba44a6a66cfb6004c1d9
 Y
 )src/example/structural/proxy/Cliente.java,a/9/a974a4e135053e490d7b6a1117f4d2740bf6cbeb
+]
+-src/example/structural/flyweight/Circulo.java,6/a/6a75494b0d15e619cb0ed9f87c015a6c4d917860
+g
+7src/example/structural/flyweight/FabricaDeCirculos.java,9/8/98c94c3810a3e4a8831f1e22f4d0bf237903e843
+]
+-src/example/structural/flyweight/Cliente.java,c/a/ca70cf9d1ca690f5e378c2e03e1b293c3127865c
