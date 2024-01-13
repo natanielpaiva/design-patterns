@@ -118,3 +118,27 @@ g
 7src/example/structural/flyweight/FabricaDeCirculos.java,9/8/98c94c3810a3e4a8831f1e22f4d0bf237903e843
 ]
 -src/example/structural/flyweight/Cliente.java,c/a/ca70cf9d1ca690f5e378c2e03e1b293c3127865c
+B
+Nataniel Paiva.txt,5/c/5c9cf33793a4b5d083e74e7ac0eda9c13cb0d1a3
+^
+.src/example/solid/srp/nosrp/EmployeeNoSRP.java,5/1/51cec45bd756105376655875c4c4405e32b7ef52
+\
+,src/example/solid/srp/exemplo1/Employee.java,1/f/1f83b7a67f1904018073d570d8deb7d90251992a
+a
+1src/example/solid/srp/exemplo1/EmployeeSaver.java,f/7/f7dc7ec0a3a9a11d7abf95be532a65983643de43
+`
+0src/example/solid/srp/exemplo1/HourReporter.java,a/8/a8ee26d737766fa430227d61e55ecca7d41cf9a7
+a
+1src/example/solid/srp/exemplo1/PayCalculator.java,7/1/71a587a7c630db07f044a947d0e18a21b61dd3e1
+\
+,src/example/solid/srp/exemplo2/Employee.java,9/2/92f58fbea89c64565a350bd3934b7735523d0fc2
+b
+2src/example/solid/srp/exemplo2/EmployeeFacade.java,f/f/ff36c3fecef04475e2f4838894f83303ce3aa9ac
+a
+1src/example/solid/srp/exemplo2/EmployeeSaver.java,c/a/caff67953cdc591c284c4cf37189858bfe484f97
+`
+0src/example/solid/srp/exemplo2/HourReporter.java,6/a/6a642fbcf908f4803bc973b48893c84f1c89c661
+a
+1src/example/solid/srp/exemplo2/PayCalculator.java,0/3/03d1364b3ff34c50f7b7d123bfb8b20f6a582d86
+X
+(src/example/solid/srp/exemplo2/Main.java,6/0/60cd4b18bd19cf4e2d1c00755dafb71df8a38bb9
